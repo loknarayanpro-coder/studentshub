@@ -53,15 +53,5 @@
 
 ---
 
-## ⚖️ Copyright & Author Attribution
-
-**Made by Lok.**
-
-Copyright © 2026 **Lok**. All rights reserved.
-
-Designed, architected, and developed by **Lok**. All user interface designs, custom component architecture, and integrated academic curation modules are protected by copyright.
-
----
-
 ## 📜 Non-Affiliation Disclaimer
-AU Student Hub is an independent student academic resource platform created by **Lok** and is not officially affiliated with, endorsed by, or sponsored by Anna University unless expressly stated. All course codes, regulations, and syllabi designations are referenced solely for nominative academic organizational purposes under fair educational access.
+AU Student Hub is an independent student academic resource platform and is not officially affiliated with, endorsed by, or sponsored by Anna University unless expressly stated. All course codes, regulations, and syllabi designations are referenced solely for nominative academic organizational purposes under fair educational access.

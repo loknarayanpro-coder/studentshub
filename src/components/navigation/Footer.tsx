@@ -28,7 +28,7 @@ export function Footer() {
           <div className="space-y-2">
             <h4 className="text-xs font-bold uppercase tracking-wider text-[#F5F7FA]">Academics</h4>
             <ul className="space-y-1.5">
-              <li><Link href="/academics" className="hover:text-[#B7F34A] transition-colors">Departments</Link></li>
+              <li><Link href="/academics" className="hover:text-[#B7F34A] transition-colors">Syllabus (Sem 5 CSE)</Link></li>
               <li><Link href="/notes" className="hover:text-[#B7F34A] transition-colors">Lecture Notes</Link></li>
               <li><Link href="/question-papers" className="hover:text-[#B7F34A] transition-colors">Question Papers</Link></li>
               <li><Link href="/important-questions" className="hover:text-[#B7F34A] transition-colors">Important Questions</Link></li>
@@ -81,10 +81,14 @@ export function Footer() {
           </p>
         </div>
 
-        <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-[#94A3B8]/80">
-          <p>© {new Date().getFullYear()} CAMPUS — AU Student Hub. Built for engineering students.</p>
-          <div className="flex items-center gap-1">
-            <span>Crafted for engineering peers.</span>
+        <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-[#94A3B8]">
+          <p>
+            © {new Date().getFullYear()} AU Student Hub. All rights reserved. Made by{' '}
+            <span className="font-bold text-[#F5F7FA]">Lok</span>.
+          </p>
+          <div className="flex items-center gap-1.5 font-mono">
+            <span>Engineered & Crafted with precision by</span>
+            <span className="text-[#B7F34A] font-bold">Lok</span>
           </div>
         </div>
       </div>
